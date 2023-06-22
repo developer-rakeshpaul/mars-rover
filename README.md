@@ -18,15 +18,15 @@ Each rover will be finished sequentially, which means that the second rover won'
 The output for each rover should be its final coordinates and heading.
 
 Test Input
-55
-12 N
+5 5
+1 2 N
 LMLMLMLMM
-33 E
+3 3 E
 MMRMMRMRRM
 
 Expected Output
-13 N
-51 E
+1 3 N
+5 1 E
 
 >
 
